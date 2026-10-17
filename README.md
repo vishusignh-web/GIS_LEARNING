@@ -1,6 +1,5 @@
-# Python REST API & ArcGIS Service Development: Complete Code (Parts 1-3 + React Frontend)
+# Python REST API
 
-Runnable code for every topic in the syllabus. All scripts were executed and verified.
 
 ## Setup
 ```bash
