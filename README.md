@@ -10,7 +10,7 @@ pip install -r requirements.txt
 # Terminal 3: backend
 cd part3 && uvicorn app.main:app --reload
 
-# Terminal 3: frontend (Node 18+)
+# Terminal 3: frontend 
 cd frontend && npm install && npm run dev
 
 
